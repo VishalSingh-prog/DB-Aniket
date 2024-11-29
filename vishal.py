@@ -1,3 +1,5 @@
+#Apna kaam kiya kar bhai
+#Aise rote hue muh mat bana
 import os
 import shutil
 import tkinter as tk
